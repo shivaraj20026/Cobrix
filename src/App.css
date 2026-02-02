@@ -1,0 +1,45 @@
+/* App specific styles that extend Tailwind */
+
+.app {
+  @apply flex flex-col min-h-screen;
+}
+
+.main-content {
+  @apply flex-1;
+}
+
+/* Section Styles */
+section {
+  @apply py-20;
+}
+
+/* Page Header */
+.page-header {
+  @apply bg-secondary text-white py-20 text-center;
+}
+
+/* Animation classes */
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-glow {
+  animation: glow 5s ease-in-out infinite alternate;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes glow {
+  0% { box-shadow: 0 0 5px rgba(243, 156, 18, 0.3); }
+  100% { box-shadow: 0 0 20px rgba(243, 156, 18, 0.7); }
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  section {
+    @apply py-16;
+  }
+}
