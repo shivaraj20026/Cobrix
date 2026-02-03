@@ -129,7 +129,14 @@ const Footer = () => {
         <div className="container">
           <p>&copy; {currentYear} COBRIX Construction. All Rights Reserved.</p>
           <p>
-            Designed & Developed with <i className="fas fa-heart"></i> by Digital iMac
+            Designed & Developed with <i className="fas fa-heart"></i> by {" "}
+            <a
+              href="https://digitalimac.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Digital iMac
+            </a>
           </p>
         </div>
       </div>
