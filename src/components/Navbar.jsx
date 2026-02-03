@@ -78,10 +78,10 @@ const Navbar = () => {
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
           <div className="logo-container">
-            {/* COBRIXA Logo */}
-            <img src={logo} alt="COBRIXA" className="logo-image" />
+            {/* COBRIX Logo */}
+            <img src={logo} alt="COBRIX" className="logo-image" />
             <div className="logo-text">
-              <span className="company-name">COBRIXA</span>
+              <span className="company-name">COBRIX</span>
             </div>
           </div>
         </Link>
