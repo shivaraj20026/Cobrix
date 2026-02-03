@@ -1,41 +1,25 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  base: '/', 
-
+  base: '/',
   plugins: [react()],
 
-  server: {
-    port: 3000,
-    hmr: {
-      overlay: true
-    }
-  },
-
-  css: {
-    postcss: false
-  },
-
-  optimizeDeps: {
-    include: ['cookie', 'react-router-dom']
+  resolve: {
+    alias: {
+      '@assets': '/src/assets',
+    },
   },
 
   build: {
+    outDir: 'dist',
     assetsInlineLimit: 0,
     rollupOptions: {
       output: {
         assetFileNames: 'assets/[name].[hash][extname]',
         chunkFileNames: 'assets/[name].[hash].js',
         entryFileNames: 'assets/[name].[hash].js',
-      }
-    }
+      },
+    },
   },
-
-  resolve: {
-    alias: {
-      '@assets': '/src/assets'
-    }
-  }
 })
