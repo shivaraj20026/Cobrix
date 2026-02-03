@@ -18,7 +18,7 @@ const Hero = () => {
 
   // Modern, sophisticated color theme for the hero section
   const colorTheme = {
-    primary: "#0A3A5E",    // COBRIXA Blue
+    primary: "#0A3A5E",    // COBRIX Blue
     secondary: "#2D3748",  // Dark gray
     accent: "#F59E0B",     // Amber
     dark: "#1A202C",       // Almost black
@@ -171,7 +171,7 @@ const Hero = () => {
                     textShadow: '0 2px 4px rgba(0, 0, 0, 0.5)'
                   }}
                 >
-                  COBRIXA
+                  COBRIX
                 </motion.span>
               </motion.h1>
 
@@ -265,7 +265,7 @@ const Hero = () => {
               style={{ paddingTop: '100px', paddingBottom: '40px', zIndex: 30 }}
             >
               <div className="container mx-auto px-4">
-                {/* COBRIXA Introduction */}
+                {/* COBRIX Introduction */}
                 <motion.div
                   className="text-center mb-10"
                   variants={itemVariants}
@@ -281,7 +281,7 @@ const Hero = () => {
                     }}
                     transition={{ duration: 3, repeat: Infinity }}
                   >
-                    Welcome to COBRIXA Construction
+                    Welcome to COBRIX Construction
                   </motion.h2>
                   <motion.div
                     className="w-24 h-1 bg-white mx-auto mb-6"
@@ -290,7 +290,7 @@ const Hero = () => {
                     transition={{ duration: 1, delay: 0.3 }}
                   ></motion.div>
                   <p className="text-gray-200 text-lg max-w-3xl mx-auto">
-                    COBRIXA is a premier construction company with over 20 years of experience delivering exceptional building solutions across residential, commercial, and industrial sectors.
+                    COBRIX is a premier construction company with over 20 years of experience delivering exceptional building solutions across residential, commercial, and industrial sectors.
                   </p>
                 </motion.div>
 
@@ -387,7 +387,7 @@ const Hero = () => {
                   </motion.div>
                 </div>
 
-                {/* COBRIXA Values */}
+                {/* COBRIX Values */}
                 <motion.div
                   className="bg-black bg-opacity-50 p-6 rounded-lg border border-opacity-20 max-w-4xl mx-auto cursor-pointer"
                   style={{ borderColor: colorTheme.primary }}
