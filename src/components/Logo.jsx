@@ -9,7 +9,7 @@ const Logo = () => {
       transition={{ duration: 0.8, delay: 0.5 }}
       className="bg-white bg-opacity-90 p-3 rounded-lg shadow-lg"
     >
-      {/* COBRIXA Logo */}
+      {/* COBRIX Logo */}
       <svg 
         width="200" 
         height="200" 
@@ -33,7 +33,7 @@ const Logo = () => {
           <polygon points="500,500 600,450 700,500 600,550" />
         </g>
         
-        {/* COBRIXA text */}
+        {/* COBRIX text */}
         <text 
           x="400" 
           y="700" 
@@ -43,7 +43,7 @@ const Logo = () => {
           fill="#0A3A5E" 
           textAnchor="middle"
         >
-          COBRIXA
+          COBRIX
         </text>
       </svg>
     </motion.div>
