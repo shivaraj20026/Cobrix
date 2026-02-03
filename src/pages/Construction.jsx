@@ -176,7 +176,7 @@ const Construction = () => {
       >
         <div className="container">
           <motion.p>
-            At COBRIXA Construction, we deliver exceptional construction services across residential, commercial, and industrial sectors. With decades of experience and a team of skilled professionals, we bring your vision to life with meticulous attention to detail, innovative solutions, and unwavering commitment to quality. Our comprehensive approach ensures that every project is completed on time, within budget, and to the highest standards of craftsmanship.
+            At COBRIX Construction, we deliver exceptional construction services across residential, commercial, and industrial sectors. With decades of experience and a team of skilled professionals, we bring your vision to life with meticulous attention to detail, innovative solutions, and unwavering commitment to quality. Our comprehensive approach ensures that every project is completed on time, within budget, and to the highest standards of craftsmanship.
           </motion.p>
         </div>
       </motion.section>
@@ -337,7 +337,7 @@ const Construction = () => {
           <motion.h2 variants={fadeIn}>Ready to Start Your Construction Project?</motion.h2>
           <motion.div className="accent-line" variants={fadeIn}></motion.div>
           <motion.p variants={fadeIn}>
-            Contact us today to discuss how COBRIXA Construction can bring your vision to life with our expertise and commitment to excellence.
+            Contact us today to discuss how COBRIX Construction can bring your vision to life with our expertise and commitment to excellence.
           </motion.p>
           <motion.div
             variants={fadeIn}
