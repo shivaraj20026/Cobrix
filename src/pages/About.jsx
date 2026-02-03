@@ -206,7 +206,7 @@ const About = () => {
                   <div className="year">2000</div>
                   <div className="content">
                     <h4>Company Founded</h4>
-                    <p>COBRIXA was established with a vision to transform the construction industry with quality and innovation.</p>
+                    <p>COBRIX was established with a vision to transform the construction industry with quality and innovation.</p>
                   </div>
                 </motion.div>
 
@@ -253,7 +253,7 @@ const About = () => {
                 whileHover={{ scale: 1.03 }}
                 transition={{ duration: 0.3 }}
               >
-                <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1000&auto=format&fit=crop" alt="COBRIXA Team" />
+                <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1000&auto=format&fit=crop" alt="COBRIX Team" />
               </motion.div>
 
               <motion.div
