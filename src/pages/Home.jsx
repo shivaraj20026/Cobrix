@@ -25,7 +25,7 @@ const Home = () => {
       name: 'John Smith',
       position: 'CEO, TechSpace Inc.',
       project: 'Office Complex Development',
-      quote: 'COBRIXA exceeded our expectations in every way. Their attention to detail and commitment to quality is unmatched in the industry.',
+      quote: 'COBRIX exceeded our expectations in every way. Their attention to detail and commitment to quality is unmatched in the industry.',
       rating: 5,
       image: 'https://randomuser.me/api/portraits/men/32.jpg'
     },
@@ -33,7 +33,7 @@ const Home = () => {
       name: 'Sarah Johnson',
       position: 'Property Developer',
       project: 'Luxury Residential Tower',
-      quote: "Working with COBRIXA was a seamless experience. Their team's expertise and professionalism delivered exceptional results on our complex project.",
+      quote: "Working with COBRIX was a seamless experience. Their team's expertise and professionalism delivered exceptional results on our complex project.",
       rating: 5,
       image: 'https://randomuser.me/api/portraits/women/44.jpg'
     },
@@ -41,7 +41,7 @@ const Home = () => {
       name: 'Michael Chen',
       position: 'Facilities Director',
       project: 'Corporate Headquarters',
-      quote: "The COBRIXA team delivered our project on time and within budget. Their innovative solutions saved us both time and money without compromising quality.",
+      quote: "The COBRIX team delivered our project on time and within budget. Their innovative solutions saved us both time and money without compromising quality.",
       rating: 5,
       image: 'https://randomuser.me/api/portraits/men/64.jpg'
     },
@@ -49,7 +49,7 @@ const Home = () => {
       name: 'Emily Rodriguez',
       position: 'Real Estate Investor',
       project: 'Mixed-Use Development',
-      quote: "I've worked with many construction firms, but COBRIXA stands out for their exceptional communication and problem-solving abilities. Highly recommended!",
+      quote: "I've worked with many construction firms, but COBRIX stands out for their exceptional communication and problem-solving abilities. Highly recommended!",
       rating: 5,
       image: 'https://randomuser.me/api/portraits/women/28.jpg'
     },
@@ -57,7 +57,7 @@ const Home = () => {
       name: 'Robert Williams',
       position: 'Hotel Chain Owner',
       project: 'Luxury Hotel Renovation',
-      quote: "COBRIXA transformed our outdated property into a stunning modern hotel. Their attention to detail and quality craftsmanship exceeded all expectations.",
+      quote: "COBRIX transformed our outdated property into a stunning modern hotel. Their attention to detail and quality craftsmanship exceeded all expectations.",
       rating: 5,
       image: 'https://randomuser.me/api/portraits/men/45.jpg'
     }
