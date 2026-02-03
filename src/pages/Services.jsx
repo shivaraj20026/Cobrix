@@ -248,7 +248,7 @@ const Services = () => {
       >
         <div className="container">
           <motion.p>
-            At COBRIXA Construction, we offer a wide range of premium construction services to meet the diverse needs of our clients. With over 2+ years of industry experience, our team of skilled professionals is committed to delivering exceptional quality and craftsmanship on every project. Whether you're looking to build a new home, renovate your existing space, or develop a commercial property, our experienced team is here to help transform your vision into reality.
+            At COBRIX Construction, we offer a wide range of premium construction services to meet the diverse needs of our clients. With over 2+ years of industry experience, our team of skilled professionals is committed to delivering exceptional quality and craftsmanship on every project. Whether you're looking to build a new home, renovate your existing space, or develop a commercial property, our experienced team is here to help transform your vision into reality.
           </motion.p>
         </div>
       </motion.section>
@@ -262,10 +262,10 @@ const Services = () => {
         animate={expertiseControls}
       >
         <div className="container">
-          <motion.h2 variants={fadeIn}>Why Choose COBRIXA</motion.h2>
+          <motion.h2 variants={fadeIn}>Why Choose COBRIX</motion.h2>
           <motion.div className="accent-line" variants={fadeIn}></motion.div>
           <motion.p className="section-intro" variants={fadeIn}>
-            With decades of experience and a commitment to excellence, COBRIXA Construction stands apart as a leader in the industry.
+            With decades of experience and a commitment to excellence, COBRIX Construction stands apart as a leader in the industry.
           </motion.p>
 
           <div className="expertise-grid">
@@ -446,7 +446,7 @@ const Services = () => {
                     >
                       <div className="expanded-service-inner">
                         <h3>Our Construction Expertise</h3>
-                        <p>At COBRIXA, we understand that your building is more than just a structure—it's where life and business happen. Our construction services are designed to create spaces that reflect your unique requirements and preferences while providing exceptional quality and value.</p>
+                        <p>At COBRIX, we understand that your building is more than just a structure—it's where life and business happen. Our construction services are designed to create spaces that reflect your unique requirements and preferences while providing exceptional quality and value.</p>
 
                         <div className="expanded-service-grid">
                           <div className="expanded-service-item">
@@ -524,7 +524,7 @@ const Services = () => {
                     >
                       <div className="expanded-service-inner">
                         <h3>Our Interior Design Expertise</h3>
-                        <p>COBRIXA delivers exceptional interior design solutions that combine functionality, aesthetics, and personal expression. We understand that your interior space reflects your personality and lifestyle, and we work diligently to create environments that inspire, comfort, and impress.</p>
+                        <p>COBRIX delivers exceptional interior design solutions that combine functionality, aesthetics, and personal expression. We understand that your interior space reflects your personality and lifestyle, and we work diligently to create environments that inspire, comfort, and impress.</p>
 
                         <div className="expanded-service-grid">
                           <div className="expanded-service-item">
@@ -565,7 +565,7 @@ const Services = () => {
 
                           <div className="expanded-service-item">
                             <h4>Interior Design Process</h4>
-                            <p>When you choose COBRIXA for your interior design project, you benefit from our comprehensive approach and commitment to excellence.</p>
+                            <p>When you choose COBRIX for your interior design project, you benefit from our comprehensive approach and commitment to excellence.</p>
                             <ul>
                               <li><strong>Consultation:</strong> Understanding your style, needs, and vision</li>
                               <li><strong>Concept Development:</strong> Creating design concepts and mood boards</li>
