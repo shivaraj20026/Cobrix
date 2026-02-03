@@ -43,7 +43,7 @@ const Contact = () => {
     },
     {
       question: "Are you licensed and insured?",
-      answer: "Absolutely. COBRIXA Construction is fully licensed, bonded, and insured for all types of construction work we perform."
+      answer: "Absolutely. COBRIX Construction is fully licensed, bonded, and insured for all types of construction work we perform."
     },
     {
       question: "How long does a typical construction project take?",
