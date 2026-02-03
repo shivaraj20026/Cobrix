@@ -131,7 +131,7 @@ const About = () => {
             </motion.h2>
 
             <motion.p variants={fadeIn}>
-              Discover the story, values, and expertise that make COBRIXA the premier choice for your construction needs.
+              Discover the story, values, and expertise that make COBRIX the premier choice for your construction needs.
             </motion.p>
 
             <motion.div
@@ -190,7 +190,7 @@ const About = () => {
               variants={slideFromLeft}
             >
               <h3 className="subtitle">Who We Are</h3>
-              <p>Founded in 2020, COBRIXA has grown from a small local contractor to a leading construction company serving the entire region. With a team of highly skilled professionals and a commitment to quality, we have successfully completed hundreds of projects ranging from residential homes to commercial complexes.</p>
+              <p>Founded in 2020, COBRIX has grown from a small local contractor to a leading construction company serving the entire region. With a team of highly skilled professionals and a commitment to quality, we have successfully completed hundreds of projects ranging from residential homes to commercial complexes.</p>
 
               <p>Our journey has been defined by our unwavering dedication to craftsmanship, innovation, and client satisfaction. We believe that every project, regardless of size, deserves the highest level of attention and expertise.</p>
 
@@ -444,7 +444,7 @@ const About = () => {
               style={{ background: colorTheme.primary }}
             ></motion.div>
             <h2>Why Choose Us</h2>
-            <p className="section-subtitle">What sets COBRIXA apart from the competition</p>
+            <p className="section-subtitle">What sets COBRIX apart from the competition</p>
           </motion.div>
 
           <motion.div
