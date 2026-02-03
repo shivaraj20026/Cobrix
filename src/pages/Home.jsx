@@ -180,7 +180,7 @@ const Home = () => {
               <div className="relative overflow-hidden rounded-lg shadow-xl">
                 <motion.img
                   src={showcaseImages.mainImage}
-                  alt="COBRIXA Construction Project"
+                  alt="COBRIX Construction Project"
                   className="w-full h-[600px] object-cover"
                   whileHover={{ scale: 1.05 }}
                   transition={{ duration: 0.5 }}
@@ -225,7 +225,7 @@ const Home = () => {
                 >
                   <img
                     src={image}
-                    alt={`COBRIXA Project ${index + 1}`}
+                    alt={`COBRIX Project ${index + 1}`}
                     className="w-full h-[250px] object-cover transition-all duration-500 hover:scale-110"
                   />
                 </motion.div>
@@ -272,7 +272,7 @@ const Home = () => {
                 viewport={{ once: true }}
                 transition={{ duration: 0.5, delay: 0.4 }}
               >
-                At COBRIXA, we combine innovative design with precision engineering to create structures that stand the test of time. Our commitment to excellence is evident in every project we undertake.
+                At COBRIX, we combine innovative design with precision engineering to create structures that stand the test of time. Our commitment to excellence is evident in every project we undertake.
               </motion.p>
 
               <motion.ul
@@ -319,7 +319,7 @@ const Home = () => {
               <div className="relative overflow-hidden rounded-lg shadow-xl">
                 <motion.img
                   src={constructionImage}
-                  alt="COBRIXA Construction Excellence"
+                  alt="COBRIX Construction Excellence"
                   className="w-full h-[500px] object-cover"
                   whileHover={{ scale: 1.05 }}
                   transition={{ duration: 0.5 }}
@@ -348,10 +348,10 @@ const Home = () => {
             viewport={{ once: true, amount: 0.3 }}
             transition={{ duration: 0.7 }}
           >
-            <h2 className="text-4xl font-bold text-[#0A3A5E] mb-4">COBRIXA Excellence</h2>
+            <h2 className="text-4xl font-bold text-[#0A3A5E] mb-4">COBRIX Excellence</h2>
             <div className="w-20 h-1 bg-[#0A3A5E] mx-auto mb-6"></div>
             <p className="text-lg text-gray-700 mb-8">
-              COBRIXA brings over two decades of construction excellence to every project.
+              COBRIX brings over two decades of construction excellence to every project.
               We specialize in premium residential, commercial, and industrial construction, delivering
               exceptional results through innovative design, quality craftsmanship, and sustainable building practices.
             </p>
@@ -415,7 +415,7 @@ const Home = () => {
             <h2 className="text-4xl font-bold text-[#0A3A5E] mb-4">Our Premium Services</h2>
             <div className="w-20 h-1 bg-[#0A3A5E] mx-auto mb-6"></div>
             <p className="text-lg text-gray-700 max-w-3xl mx-auto">
-              COBRIXA delivers a comprehensive range of construction services with uncompromising quality and attention to detail.
+              COBRIX delivers a comprehensive range of construction services with uncompromising quality and attention to detail.
             </p>
           </motion.div>
 
@@ -584,7 +584,7 @@ const Home = () => {
             viewport={{ once: true, amount: 0.3 }}
             transition={{ duration: 0.7 }}
           >
-            <h2 className="text-4xl font-bold mb-6">Ready to Build with COBRIXA?</h2>
+            <h2 className="text-4xl font-bold mb-6">Ready to Build with COBRIX?</h2>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
               Contact us today to discuss your project and discover how our expertise can bring your vision to life.
             </p>
