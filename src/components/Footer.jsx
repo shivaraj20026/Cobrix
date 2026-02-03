@@ -14,7 +14,7 @@ const Footer = () => {
               <h3>About Us</h3>
               <div className="footer-divider"></div>
               <p>
-                COBRIXA Construction is a premier luxury construction firm
+                COBRIX Construction is a premier luxury construction firm
                 specializing in high-end residential and commercial projects.
               </p>
               <Link to="/about" className="footer-more-link">
@@ -127,7 +127,7 @@ const Footer = () => {
 
       <div className="footer-bottom">
         <div className="container">
-          <p>&copy; {currentYear} COBRIXA Construction. All Rights Reserved.</p>
+          <p>&copy; {currentYear} COBRIX Construction. All Rights Reserved.</p>
           <p>
             Designed with <i className="fas fa-heart"></i> for Innomatrics tech
           </p>
