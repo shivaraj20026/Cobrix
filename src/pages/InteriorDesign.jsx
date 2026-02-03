@@ -195,7 +195,7 @@ const InteriorDesign = () => {
       >
         <div className="container">
           <motion.p>
-            At COBRIXA Interior Design, we transform spaces into beautiful, functional environments that reflect your unique style and meet your specific needs. Our team of talented designers combines creativity, technical expertise, and attention to detail to create interiors that are both aesthetically pleasing and perfectly tailored to your lifestyle or business requirements. From concept to completion, we guide you through every step of the design process, ensuring a seamless and enjoyable experience.
+            At COBRIX Interior Design, we transform spaces into beautiful, functional environments that reflect your unique style and meet your specific needs. Our team of talented designers combines creativity, technical expertise, and attention to detail to create interiors that are both aesthetically pleasing and perfectly tailored to your lifestyle or business requirements. From concept to completion, we guide you through every step of the design process, ensuring a seamless and enjoyable experience.
           </motion.p>
         </div>
       </motion.section>
