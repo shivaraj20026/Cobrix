@@ -129,7 +129,7 @@ const Footer = () => {
         <div className="container">
           <p>&copy; {currentYear} COBRIX Construction. All Rights Reserved.</p>
           <p>
-            Designed with <i className="fas fa-heart"></i> for Innomatrics tech
+            Designed & Developed with <i className="fas fa-heart"></i> by Digital iMac
           </p>
         </div>
       </div>
