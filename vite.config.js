@@ -1,24 +1,29 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// https://vitejs.dev/config/
 export default defineConfig({
-  base: 'cobrix',
+  base: '/', 
+
   plugins: [react()],
+
   server: {
     port: 3000,
     hmr: {
       overlay: true
     }
   },
+
   css: {
     postcss: false
   },
+
   optimizeDeps: {
     include: ['cookie', 'react-router-dom']
   },
+
   build: {
-    assetsInlineLimit: 0, // Disable asset inlining
+    assetsInlineLimit: 0,
     rollupOptions: {
       output: {
         assetFileNames: 'assets/[name].[hash][extname]',
@@ -27,6 +32,7 @@ export default defineConfig({
       }
     }
   },
+
   resolve: {
     alias: {
       '@assets': '/src/assets'
