@@ -5,7 +5,7 @@ const SocialMediaButtons = () => {
   const socialLinks = [
     {
       icon: <FaPhone />,
-      href: "tel:+91 87627 85555", // Replace with your actual phone number
+      href: "tel:+91 78990 59851", // Replace with your actual phone number
       label: "Call us"
     },
     {
@@ -20,7 +20,7 @@ const SocialMediaButtons = () => {
     },
     {
       icon: <FaWhatsapp />,
-      href: "+91 87627 85555", // Replace with your WhatsApp number
+      href: "+91 78990 59851", // Replace with your WhatsApp number
       label: "WhatsApp"
     }
   ];
