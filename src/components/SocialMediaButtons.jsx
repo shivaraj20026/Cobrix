@@ -20,7 +20,7 @@ const SocialMediaButtons = () => {
     },
     {
       icon: <FaWhatsapp />,
-      href: "+91 78990 59851", // Replace with your WhatsApp number
+      href: "https://wa.me/+91 78990 59851", // Replace with your WhatsApp number
       label: "WhatsApp"
     }
   ];
