@@ -10,12 +10,12 @@ const SocialMediaButtons = () => {
     },
     {
       icon: <FaFacebook />,
-      href: "https://www.facebook.com/periwinkleme1/", // Replace with your Facebook page URL
+      href: "https://www.facebook.com/cobrixconstruction", // Replace with your Facebook page URL
       label: "Facebook"
     },
     {
       icon: <FaInstagram />,
-      href: "https://www.instagram.com/periwinkleme_official/", // Replace with your Instagram profile URL
+      href: "https://www.instagram.com/cobrixconstruction/", // Replace with your Instagram profile URL
       label: "Instagram"
     },
     {
